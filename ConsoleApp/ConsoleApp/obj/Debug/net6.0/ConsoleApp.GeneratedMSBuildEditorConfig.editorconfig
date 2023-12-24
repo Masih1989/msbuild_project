@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ConsoleApp
-build_property.ProjectDir = D:\Masihullah\Training\Projects\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\
+build_property.ProjectDir = D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

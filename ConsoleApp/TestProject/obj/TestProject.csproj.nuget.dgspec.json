@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj": {}
+    "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+    "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "projectUniqueName": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
-        "packagesPath": "C:\\Users\\UN\\.nuget\\packages\\",
-        "outputPath": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\obj\\",
+        "projectPath": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Masihullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\UN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Masihullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -40,8 +38,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
@@ -58,39 +56,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj": {
+    "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\UN\\.nuget\\packages\\",
-        "outputPath": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\obj\\",
+        "projectPath": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\TestProject.csproj",
+        "packagesPath": "C:\\Users\\Masihullah\\.nuget\\packages\\",
+        "outputPath": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\UN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Masihullah\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
-                "projectPath": "D:\\Masihullah\\Training\\Projects\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
+              "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj": {
+                "projectPath": "D:\\Masihullah\\Training\\Projects\\Visual Studio 2019\\Jenkins\\msbuild_project\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj"
               }
             }
           }
@@ -102,24 +98,26 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.10, )"
+              "version": "[3.1.1, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.10, )"
+              "version": "[3.1.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.3.2, )"
+              "version": "[17.8.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [
@@ -138,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,15 @@
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\Masihullah\Training\Projects\Visual Studio 2019\Jenkins\msbuild_project\ConsoleApp\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
